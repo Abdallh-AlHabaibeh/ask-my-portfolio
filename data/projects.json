@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Face Recognition V2",
+    "description": "Face recognition system built with InsightFace, ArcFace, and OpenCV for reliable recognition under realistic conditions.",
+    "tech": ["Python", "OpenCV", "InsightFace", "ArcFace"],
+    "metric": "93.1% known-face accuracy",
+    "github": "https://github.com/Abdallh-AlHabaibeh/face-recognition-v2",
+    "demo": null
+  },
+  {
+    "title": "Chess Vision Tutor",
+    "description": "Computer vision pipeline that converts a chessboard image into FEN, analyzes the position with Stockfish, and provides AI-assisted chess guidance.",
+    "tech": ["Python", "PyTorch", "Computer Vision", "Stockfish", "VLM"],
+    "metric": "98.18% square accuracy across successfully processed boards",
+    "github": "https://github.com/Abdallh-AlHabaibeh/chess-vision-tutor",
+    "demo": null
+  }
+]
