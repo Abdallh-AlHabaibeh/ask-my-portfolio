@@ -5,5 +5,7 @@ description = "A Streamlit portfolio for selected AI and machine learning projec
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "google-genai>=2.24.0",
+    "numpy>=2.5.3",
     "streamlit>=1.63.0",
 ]

@@ -5,7 +5,9 @@
     "tech": ["Python", "OpenCV", "InsightFace", "ArcFace"],
     "metric": "93.1% known-face accuracy",
     "github": "https://github.com/Abdallh-AlHabaibeh/face-recognition-v2",
-    "demo": null
+    "demo": "https://face-recognition-v2-demo-abdallah.streamlit.app/",
+    "thumbnail": "images/Face_image.jpg"
+
   },
   {
     "title": "Chess Vision Tutor",
@@ -13,6 +15,8 @@
     "tech": ["Python", "PyTorch", "Computer Vision", "Stockfish", "VLM"],
     "metric": "98.18% square accuracy across successfully processed boards",
     "github": "https://github.com/Abdallh-AlHabaibeh/chess-vision-tutor",
-    "demo": null
+    "demo": "https://chess-vision-tutor-abdallah.streamlit.app/",
+    "thumbnail": "images/Chess_image.jpg"
+
   }
 ]
